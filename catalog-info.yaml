@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "jai-test-react-template-2703"
+  description: "my test react app"
+  annotations:
+    github.com/project-slug: invincibleJai/jai-test-react-template-27march
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "group:default/invinciblejai"
